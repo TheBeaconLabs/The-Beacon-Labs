@@ -29,7 +29,7 @@ Beacon Labs offers a cutting-edge business ready framework where you can activat
 # 📙 Documentation
 
 You can access our documentation at [https://the-beacon-labs.gitbook.io/the-beacon-labs](https://the-beacon-labs.gitbook.io/the-beacon-labs). All concepts, examples and explanations are available there.
-
+You can also contact us via [Twitter](https://x.com/TheBeaconLabs) or directly via email at victor@thebeaconlabs.com
 <br>
 <br>
 
