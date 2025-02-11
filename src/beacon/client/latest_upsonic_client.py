@@ -1,0 +1,1 @@
+latest_beacon_client = None
