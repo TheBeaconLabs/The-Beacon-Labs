@@ -16,3 +16,4 @@ def get_library_version() -> str:
             return pyproject_data['project']['version']
     except (FileNotFoundError, KeyError):
         return "Version information not available."
+        
