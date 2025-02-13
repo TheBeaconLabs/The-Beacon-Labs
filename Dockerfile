@@ -99,3 +99,4 @@ CMD /bin/bash -c "export DISPLAY=:1 && /usr/bin/vncserver :1 -geometry 1366x768 
     python3.12 -c 'from beacon.server import run_main_server_internal; run_main_server_internal(reload=False)' & \
     python3.12 -c 'from beacon.tools_server import run_tools_server_internal; run_tools_server_internal(reload=False)' & \
     wait"
+    
